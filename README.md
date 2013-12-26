@@ -12,4 +12,4 @@ my dot files for os x
 ========
 Scriptでやらないこと
 ========
-GUI上で、ターミナルの設定から、solarizedをインストールし、ログインシェルを　/bin/zsh/　に設定する。
+GUI上で、ターミナルの設定から、solarizedをインストールし、ログインシェルを"/bin/zsh/"に設定する。
