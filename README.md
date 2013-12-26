@@ -12,4 +12,7 @@ my dot files for os x
 ========
 Scriptでやらないこと
 ========
-GUI上で、ターミナルの設定から、solarizedをインストールし、ログインシェルを"/bin/zsh/"に設定する。
+GUI上で、ターミナルの設定から、solarizedをインストール。
+git clone https://github.com/tomislav/osx-terminal.app-colors-solarized
+
+ターミナルの設定から、ログインシェルを"/bin/zsh/"に設定し、テーマをsolarizedに変更。
